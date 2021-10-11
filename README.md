@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yetkin Akyüz!
-- 🎓 I'm a senior Electrical Electronics Engineering student.
+- 🎓 I'm an Embedded Software Engineer.
 - 👀 I’m interested in software development and embedded systems.
-- 🌱 I’m focused on developing myself in embedded systems and ARM architecture.
+- 🌱 I’m focused on developing myself in embedded software.
 - 📚 I write blog posts about technology, computer science and programming on my personal website: https://yetkinakyuz.com
 - 📫 Also you can reach me by mail: contact@yetkinakyuz.com
 
