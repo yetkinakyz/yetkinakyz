@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yetkin Akyüz!
-- 🎓 I'm an Embedded Software Engineer.
+- 🎓 I'm an Electrical Electronics Engineer.
 - 👀 I’m interested in software development and embedded systems.
 - 🌱 I’m focused on developing myself in embedded software.
 - 📚 I write blog posts about technology, computer science and programming on my personal website: https://yetkinakyuz.com
