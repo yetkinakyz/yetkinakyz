@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Yetkin Akyüz!
-- 🎓 I'm an Electrical Electronics Engineer.
-- 👀 I’m interested in software development and embedded systems.
-- 🌱 I’m focused on developing myself in embedded software.
-- 📚 I write blog posts about technology, computer science and programming on my personal website: https://yetkinakyuz.com
-- 📫 Also you can reach me by mail: contact@yetkinakyuz.com
+I am a software engineer who always focuses on improving himself and enjoys being in the software world.
 
-<!---
-yetkinakyz/yetkinakyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Born and raised in Turkey, I graduated from Duzce University, Department of Electrical Electronics Engineering. Currently, I am in charge of software and product development at Construction Panda.
+
+Also, as a freelance software engineer having been focused on self-development while providing quality services, I am seeking exciting collaboration opportunities.
